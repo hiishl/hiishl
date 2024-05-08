@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<h3 align="center">An aspiring data scientist and machine learning engineer</h3>
-
 - 🔭 I’m currently working on **finanical data**
 
 - 🌱 I’m currently learning **tensorflow**
