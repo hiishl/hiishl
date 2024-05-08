@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Huimin</h1>
+<h3 align="center">STAT DATA AI ML always fun!</h3>
 
 - 🔭 I’m currently working on **finanical data**
 
