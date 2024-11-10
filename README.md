@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **finanical data**
 
-- 🌱 I’m currently learning **tensorflow**
+- 🌱 I’m currently learning **PyTorch**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
